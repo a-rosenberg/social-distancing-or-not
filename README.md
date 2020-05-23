@@ -7,7 +7,7 @@
 
 ## EDA
 Look at correlations in `exploratory_correlations.py`.  It appears to me that an increase in percent voting for 
-Trump in 2016 is positively correlated (a weak 0.162) with positive average change in average post-covid mobility 
+Trump in 2016 is positively correlated (a weak 0.162) with positive change in average post-covid mobility 
 to non-essential locations ("Mobility trends for places like restaurants, cafes, shopping centers, theme parks, museums, 
 libraries, and movie theaters") as described in the Google Mobility Reports [Documentation](https://www.google.com/covid19/mobility/data_documentation.html?hl=en).
 

@@ -1,7 +1,7 @@
 # Social Distancing... Or Not
 
 ## Setup
-1. Run `download.py` to pull latest datasets from Google and MIT Election Lab.
+1. Run `download.py` to pull latest datasets from Google Mobility Reports and MIT Election Lab.
 1. Now play with the `exploratory_*.py` files because that's all I've done so far. 
 1. That is it.
 

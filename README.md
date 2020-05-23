@@ -9,12 +9,11 @@
 Look at correlations in `exploratory_correlations.py`.  It appears to me that an increase in percent voting for 
 Trump in 2016 is positively correlated (a weak pearson-r =0.162) with positive change in average post-covid mobility
 to non-essential locations ("Mobility trends for places like restaurants, cafes, shopping centers, theme parks, museums, 
-libraries, and movie theaters") as described in the Google Mobility Reports [Documentation](https://www.google.com/covid19/mobility/data_documentation.html?hl=en).
+libraries, and movie theaters") as described in the Google Mobility Reports [Documentation](https://www.google.com/covid19/mobility/data_documentation.html?hl=en).More dramatic is the negative correlation between percent voting democratic in the 2016 and this type of non-essential 
+travel (r=-0.356).  
 
-More dramatic is the negative correlation between percent voting democratic in the 2016 and this type of non-essential 
-travel (r=-0.356).  In actual numbers; in the 2277 counties that voted republic the average decrease in non-essential 
-mobility is 12.9%, while the in the 435 counties that voted democrat the average decrease in mobility was 21.7%.  This could be the result of prevailing partisan ideals but it could also be the result of confounding variables like percent rural or
-population density (which can be teased apart in a more advanced analysis to be done at "not 2:29AM"). 
+In actual numbers; in the 2277 counties that voted republican the average decrease in non-essential 
+mobility is 12.9%, while the in the 435 counties that voted democrat the average decrease in mobility was 21.7%.  This could be the result of prevailing partisan ideals but it could also be the result of confounding variables like percent rural population (a variable we have in the election dataset) or simple population density (which can be teased apart in a more advanced analysis to be done at "not 2:29AM"). 
  
 ## So what?
 This isn't enough data to make any conclusions from; however, it's interesting so help me look into this further

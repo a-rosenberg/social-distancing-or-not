@@ -24,3 +24,7 @@ by further exploring the data and looking for other relevant data sources.
 - Model this with something clever like a regression analysis.
 - Find better datasets to describe adherence to social distancing (or masking or any COVID-19 mitigation technique).  It looks like there are some cool dashboards put out by
 states; however the information is coming from for-profit companies like Unacast so the underlying data isn't available.
+
+### Dataset Metadata
+[MIT Election Lab](https://github.com/MEDSL/2018-elections-unoffical/blob/master/election-context-2018.md)
+[Google Mobility Reports](https://www.google.com/covid19/mobility/data_documentation.html?hl=en)

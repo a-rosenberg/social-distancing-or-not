@@ -12,7 +12,9 @@ to non-essential locations ("Mobility trends for places like restaurants, cafes,
 libraries, and movie theaters") as described in the Google Mobility Reports [Documentation](https://www.google.com/covid19/mobility/data_documentation.html?hl=en).
 
 More dramatic is the negative correlation between percent voting democratic in the 2016 and this type of non-essential 
-travel (r=-0.356). 
+travel (r=-0.356).  In actual numbers; in the 2277 counties that voted republic the average decrease in non-essential 
+mobility is 12.9%, while the in the 435 counties that voted democrat the average decrease in mobility was 21.7%.  This could be the result of prevailing partisan ideals but it could also be the result of confounding variables like percent rural or
+population density (which can be teased apart in a more advanced analysis to be done at "not 2:29AM"). 
  
 ## So what?
 This isn't enough data to make any conclusions from; however, it's interesting so help me look into this further

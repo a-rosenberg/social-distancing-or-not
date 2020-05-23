@@ -1,3 +1,7 @@
+"""
+EDA to create some leads
+"""
+
 from cleaned_datasets import load_combined_dataset
 
 import matplotlib.pyplot as plt

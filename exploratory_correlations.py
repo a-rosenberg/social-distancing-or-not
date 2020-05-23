@@ -1,3 +1,6 @@
+"""
+Simple correlation analysis for election and mobility combined dataset
+"""
 from cleaned_datasets import load_combined_dataset
 
 df = load_combined_dataset()

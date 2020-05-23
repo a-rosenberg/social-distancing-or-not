@@ -27,4 +27,5 @@ states; however the information is coming from for-profit companies like Unacast
 
 ### Dataset Metadata
 [MIT Election Lab](https://github.com/MEDSL/2018-elections-unoffical/blob/master/election-context-2018.md)
+
 [Google Mobility Reports](https://www.google.com/covid19/mobility/data_documentation.html?hl=en)

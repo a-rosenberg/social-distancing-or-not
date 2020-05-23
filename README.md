@@ -20,7 +20,7 @@ by further exploring the data and looking for other relevant data sources.
 
 ## What next?
 - Look at other partisan variables? E.g., more recent congressional voting information (in the election datasets!)
-- Account for possible counfounding variables.  Even Google warns: "**Location accuracy and the understanding of categorized places varies from region to region, so we don’t recommend using this data to compare changes between countries, or between regions with different characteristics (e.g. rural versus urban areas)."
+- Account for possible counfounding variables.  Even Google warns: "*Location accuracy and the understanding of categorized places varies from region to region, so we don’t recommend using this data to compare changes between countries, or between regions with different characteristics (e.g. rural versus urban areas).*"
 - Model this with something clever like a regression analysis.
 - Find better datasets to describe adherence to social distancing (or masking or any COVID-19 mitigation technique).  It looks like there are some cool dashboards put out by
 states; however the information is coming from for-profit companies like Unacast so the underlying data isn't available.

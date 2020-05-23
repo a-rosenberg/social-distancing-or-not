@@ -16,4 +16,10 @@ travel (-0.356).
  
 ## So what?
 This isn't enough data to make any conclusions from; however, it's interesting so help me look into this further
-by further exploring the data and looking for other relevant data sources. 
+by further exploring the data and looking for other relevant data sources.
+
+## What next?
+- look at other partisan variables? E.g., more recent congressional voting information (in the election datasets!)
+- model this with something clever like a regression analysis.
+- find better datasets to describe adherence to social distancing.  It looks like there are some cool dashboards put out by
+states; however the information is coming from for-profit companies like Unacast so the underlying data isn't available.
